@@ -1,5 +1,5 @@
 # Saturn Launchpad
-Here you will find all the configuration files for running an IDEO (initial decentralized exchange offering) on Saturn Launchpad. And the steps you need to take to set up your own IDEO. If you need any help, please come and ask on our forum: https://forum.saturn.network
+Here you will find all the configuration files for running an IDEO (initial decentralized exchange offering) on Saturn Launchpad. And the steps you need to take to set up your own IDEO. If you need any help, please come and ask on our forum: https://forum.saturn.network.
 
 # Before you proceed
 Your IDEO will be powered by Saturn Protocol, which supports any ERC20 or ERC223 token deployed on Ethereum or Ethereum Classic. Saturn Protocol is truly decentralized and features an order book which is completely on chain. This means that unlike a centralized launchpad service, you will never give up control of your investment session's token allocation & will receive raised funds directly to your wallet. All investors who wish to participate in your IDEO will need to use a dApp browser to interact with Saturn Protocol. You find [a list of compatible dApp browsers here](https://forum.saturn.network/t/what-do-you-need-to-start-trading-on-saturn-network/2206).
