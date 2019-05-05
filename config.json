@@ -7,10 +7,10 @@
     "blockchain": "ETH",
     "address": "0x411079f1b50ac2583a458a7cce1d1afdf4f8842e",
     "images": {
-      "logo250x250": "https://forum.saturn.network/uploads/default/original/2X/9/9e7a7cadfc30bac6c50a331cb577f077ee91edec.png",
-      "logo200x200": "https://forum.saturn.network/uploads/default/original/2X/b/b556abc6a1b89353483fa68d19c49fefab1bf6cf.png",
-      "banner728x90": "https://forum.saturn.network/uploads/default/original/2X/2/2d5ceba525df2dd2316c4a37e93352a46a65dffa.png",
-      "banner300x50": "https://forum.saturn.network/uploads/default/original/2X/5/5ef8f2110d1da3275af2cb4562ad978bd2d6da6d.png"
+      "logo250x250": "https://github.saturn.network/launchpad/images/MS_250x250.png",
+      "logo200x200": "https://github.saturn.network/launchpad/images/MS_200x200.png",
+      "banner728x90": "https://github.saturn.network/launchpad/images/MS_banner_728x90.png",
+      "banner300x50": "https://github.saturn.network/launchpad/images/MS_banner_300x50.png"
     },
     "sessions": [
       {
