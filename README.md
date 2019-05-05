@@ -86,8 +86,8 @@ Here is an example IDEO which has four sessions at different token prices & supp
   }
 ]
 ```
-* Step 5: Create a Pull Request.
+* Step 5: Create a Pull Request. Once approved your IDEO will be displayed on [LAUNCHPAD LINK TO BE DETERMINED].
 
 **Please note we have to manually approve pull requests and we may refuse requests containing abusive content or misleading information that will alienate our website visitors.**
 
-**Our exchange is [censorship-free](https://forum.saturn.network/t/our-philosophy/1550), so there are no restrictions on which projects or who can use Saturn Launchpad. However, if we feel there is not adequate information provided for potential investors to do their own research on your project then we may ask you to provide this information before your IDEO goes live.
+**Our exchange is [censorship-free](https://forum.saturn.network/t/our-philosophy/1550), so there are no restrictions on which projects or who can use Saturn Launchpad. However, if we feel there is not adequate information provided for potential investors to do their own research on your project then we may ask you to provide this information before your IDEO goes live.**
