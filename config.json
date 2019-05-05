@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Mastercoin Invest",
+    "symbol": "MS",
+    "total_supply": "400000000",
+    "decimals": 18,
+    "blockchain": "ETH",
+    "address": "0x411079f1b50ac2583a458a7cce1d1afdf4f8842e",
+    "images": {
+      "logo250x250": "https://forum.saturn.network/uploads/default/original/2X/9/9e7a7cadfc30bac6c50a331cb577f077ee91edec.png",
+      "logo200x200": "https://forum.saturn.network/uploads/default/original/2X/b/b556abc6a1b89353483fa68d19c49fefab1bf6cf.png",
+      "banner728x90": "https://forum.saturn.network/uploads/default/original/2X/2/2d5ceba525df2dd2316c4a37e93352a46a65dffa.png",
+      "banner300x50": "https://forum.saturn.network/uploads/default/original/2X/5/5ef8f2110d1da3275af2cb4562ad978bd2d6da6d.png"
+    },
+    "sessions": [
+      {
+        "start_date": "2019/06/01",
+        "end_date": "2019/06/08",
+        "session_supply": "2200000",
+        "order_tx": "0xTBD1"
+      },
+      {
+        "start_date": "2019/06/09",
+        "end_date": "2019/06/15",
+        "session_supply": "1800000",
+        "order_tx": "0xTBD2"
+      },
+      {
+        "start_date": "2019/06/16",
+        "end_date": "2019/06/22",
+        "session_supply": "1400000",
+        "order_tx": "0xTBD3"
+      },
+      {
+        "start_date": "2019/06/23",
+        "end_date": "2019/06/29",
+        "session_supply": "1100000",
+        "order_tx": "0xTBD4"
+      }
+    ],
+    "social_media": {
+      "saturnforum": "https://forum.saturn.network/t/masternode-invest-token-15-03-2019-listing-date-get-a-montly-revenue-from-cryptocurrency-masternode/3247",
+      "twitter": "https://twitter.com/Masternodeinves",
+      "facebook": "https://www.facebook.com/Masternodeinvest",
+      "instagram": "",
+      "reddit": "https://www.reddit.com/user/masternode_invest",
+      "telegram": "https://t.me/joinchat/BAZrwkhLqCvhDUKubdCH1Q",
+      "linkedin": "https://www.linkedin.com/company/masternode-invest/",
+      "bitcointalk": "https://bitcointalk.org/index.php?topic=4516590.msg40664067#msg40664067",
+      "website": "https://masternodeinvest.io/",
+      "whitepaper": "https://masternodeinvest.io/wp-content/uploads/2018/10/English_WP-41.pdf",
+      "youtube": "https://www.youtube.com/channel/UCd7-hS2zA4c0bi6gXPps1fw",
+      "medium": "https://medium.com/@Masternodeinves",
+      "github": "https://github.com/Masternodeinvest/",
+    },
+    "youtube_summary": "https://youtu.be/0M2KcjnIhm8",
+    "project_summary": "Masternode Invest is a company, operating in Fintech environment, allowing people to invest on cryptocurrency masternode. The seed of our mission is to increase the possibility to invest on coin with POS-Masternode consensus algorithm. We are the first and unique project in this environment that gives you a proof of transparency , once invested on us, you will have our MS token associated to a smart contract, that will share automatically dividends every 30 days.",
+    "roadmap": [
+      {"when": "October 2018", "milestone": "Start Private Sale (Completed)"},
+      {"when": "November 2018", "milestone": "Start KYC Process (Completed)"},
+      {"when": "December 2018", "milestone": "Start Masternodes (Completed)"},
+      {"when": "January 2019", "milestone": "First rewards into your wallet (Completed)"},
+      {"when": "February 2019", "milestone": "Start application POOL masternodes; Get revenue from POOL fee for any MS token holder"},
+      {"when": "March 2019", "milestone": "Launch of token on exchanges"},
+      {"when": "May 2019", "milestone": "App for your phone to monitor investment"}
+    ]
+  }
+]
