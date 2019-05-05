@@ -1,10 +1,13 @@
 # Saturn Launchpad
+
 Here you will find all the configuration files for running an IDEO (initial decentralized exchange offering) on Saturn Launchpad. And the steps you need to take to set up your own IDEO. If you need any help, please come and ask on our forum: https://forum.saturn.network.
 
 # Before you proceed
-Your IDEO will be powered by Saturn Protocol, which supports any ERC20 or ERC223 token deployed on Ethereum or Ethereum Classic. Saturn Protocol is truly decentralized and features an order book which is completely on chain. This means that unlike a centralized launchpad service, you will never give up control of your investment session's token allocation & will receive raised funds directly to your wallet. All investors who wish to participate in your IDEO will need to use a dApp browser to interact with Saturn Protocol. You find [a list of compatible dApp browsers here](https://forum.saturn.network/t/what-do-you-need-to-start-trading-on-saturn-network/2206).
+
+Your IDEO will be powered by Saturn Protocol, which supports any ERC20 or ERC223 token deployed on Ethereum or Ethereum Classic. Saturn Protocol is truly decentralized and features an order book which is completely on chain. This means that unlike a centralized launchpad service, you will never give up control of your investment session's token allocation & will receive raised funds directly to your wallet. All investors who wish to participate in your IDEO will need to use a dApp browser to interact with Saturn Protocol. You can find [a list of compatible dApp browsers here](https://forum.saturn.network/t/what-do-you-need-to-start-trading-on-saturn-network/2206).
 
 ## How to set up and launch your IDEO on Saturn Launchpad
+
 * Step 1: First you will need to list your token on Saturn Protocol. This is automated and free, [please follow the guide we have published here](https://forum.saturn.network/t/saturn-protocol-token-self-listing-guide/2005).
 * Step 2: Navigate to your token's order book on our asset lists, and using the **Create Order** button on the right set up your IDEO's investment sessions. You do this by creating **Sell Orders**, where the **Amount** field will be the session's token supply and the **Price** is the session's token price. For example, if your IDEO has multiple sessions at different token prices then you will need to create several sell orders to match this or if your whole IDEO is at one token price then you would just create one sell order. The important part is on the **Receipt** page, for each sell order you create, you need save the transaction hash.
 * Step 2: Fork the project's repository, if you have never used Github before, [we recommend watching this tutorial first](https://www.youtube.com/watch?v=YTbRzhQju4c).
@@ -85,6 +88,6 @@ Here is an example IDEO which has four sessions at different token prices & supp
 ```
 * Step 5: Create a Pull Request.
 
-## **Please note we have to manually approve pull requests and we may refuse requests containing abusive content or misleading information that will alienate our website visitors.**
+**Please note we have to manually approve pull requests and we may refuse requests containing abusive content or misleading information that will alienate our website visitors.**
 
-## **Our exchange is [censorship-free](https://forum.saturn.network/t/our-philosophy/1550), so there are no restrictions on which projects or who can use Saturn Launchpad. However, if we feel there is not adequate information provided for potential investors to do their own research on your project then we may ask you to provide this information before your IDEO goes live.
+**Our exchange is [censorship-free](https://forum.saturn.network/t/our-philosophy/1550), so there are no restrictions on which projects or who can use Saturn Launchpad. However, if we feel there is not adequate information provided for potential investors to do their own research on your project then we may ask you to provide this information before your IDEO goes live.
