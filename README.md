@@ -1,5 +1,3 @@
-# launchpad
-Configuration files for running an IDEO (initial decentralized exchange offering) on Saturn Launchpad
 # Saturn Launchpad
 Here you will find all the configuration files for running an IDEO (initial decentralized exchange offering) on Saturn Launchpad. And the steps you need to take to set up your own IDEO. If you need any help, please come and ask on our forum: https://forum.saturn.network
 
