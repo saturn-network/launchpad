@@ -7,10 +7,10 @@
     "blockchain": "ETH",
     "address": "0x411079f1b50ac2583a458a7cce1d1afdf4f8842e",
     "images": {
-      "logo250x250": "https://github.saturn.network/launchpad/images/MS_250x250.png",
-      "logo200x200": "https://github.saturn.network/launchpad/images/MS_200x200.png",
-      "banner728x90": "https://github.saturn.network/launchpad/images/MS_banner_728x90.png",
-      "banner300x50": "https://github.saturn.network/launchpad/images/MS_banner_300x50.png"
+      "logo250x250": "https://launchpad.saturn.network/images/MS_250x250.png",
+      "logo200x200": "https://launchpad.saturn.network/images/MS_200x200.png",
+      "banner728x90": "https://launchpad.saturn.network/images/MS_banner_728x90.png",
+      "banner300x50": "https://launchpad.saturn.network/images/MS_banner_300x50.png"
     },
     "sessions": [
       {
