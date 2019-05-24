@@ -12,32 +12,12 @@
       "banner728x90": "https://launchpad.saturn.network/images/MS_banner_728x90.png",
       "banner300x50": "https://launchpad.saturn.network/images/MS_banner_300x50.png"
     },
-    "sessions": [
-      {
-        "start_date": "2019/06/01",
-        "end_date": "2019/06/08",
-        "session_supply": "2200000",
-        "order_tx": "0xTBD1"
-      },
-      {
-        "start_date": "2019/06/09",
-        "end_date": "2019/06/15",
-        "session_supply": "1800000",
-        "order_tx": "0xTBD2"
-      },
-      {
-        "start_date": "2019/06/16",
-        "end_date": "2019/06/22",
-        "session_supply": "1400000",
-        "order_tx": "0xTBD3"
-      },
-      {
-        "start_date": "2019/06/23",
-        "end_date": "2019/06/29",
-        "session_supply": "1100000",
-        "order_tx": "0xTBD4"
-      }
-    ],
+    "current_session": {
+      "start_date": "2019/06/01",
+      "end_date": "2019/06/08",
+      "session_supply": "2200000",
+      "order_tx": ""
+    },
     "social_media": {
       "saturnforum": "https://forum.saturn.network/t/masternode-invest-token-15-03-2019-listing-date-get-a-montly-revenue-from-cryptocurrency-masternode/3247",
       "twitter": "https://twitter.com/Masternodeinves",
