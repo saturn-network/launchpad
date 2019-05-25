@@ -14,7 +14,7 @@ Your IDEO will be powered by Saturn Protocol, which supports any ERC20 or ERC223
 * Step 3: Upload your token's logo and banners to the image directory, please provide all images on a transparent background in PNG format. We require the following sizes for your token logo: 200x200 and 250x250. For your banner, please provide 728x90 and also 300x50.
 * Step 4: Add your project's IDEO information to the config.json file. All this information will be displayed on your Saturn Launchpad listing, so please ensure it is as complete as possible. You can use [a JSON validator to make sure you have set up the format correctly](https://jsonlint.com/).
 
-Here is an example IDEO which has four sessions at different token prices & supply. The **order_tx** line is where you need to enter the transaction hash for the sell order(s) you created.  
+Here is an example IDEO for Mastercoin Invest. The **order_tx** line is where you need to enter the transaction hash for the sell order you created for your token sales first session. When that session finishes, you will need to update it to **order_tx** of your second session, or if your token sale is one price then you will never need to modify the configuration.  
 
 ```
 [
@@ -66,7 +66,7 @@ Here is an example IDEO which has four sessions at different token prices & supp
   }
 ]
 ```
-* Step 5: Create a Pull Request. Once approved your IDEO will be displayed on [LAUNCHPAD LINK TO BE DETERMINED].
+* Step 5: Create a Pull Request. Once approved your IDEO will be displayed on https://www.saturn.network/launchpad.
 
 **Please note we have to manually approve pull requests and we may refuse requests containing abusive content or misleading information that will alienate our website visitors.**
 
